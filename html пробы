@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Game-storee</title>
+        <meta name="description" content="Описание страницы" />
+        
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    </head>
+  <body>
+    <header>  
+      <div class='header'>
+          <img class='logo'>
+          <div class='menu'>
+              <a class='menu-elements' href=''>Покупки</a>
+              <a class='menu-elements' href=''>Язык</a>
+              <a class='menu-elements' href=''>Продать</a>
+              <a class='menu-elements' href=''>Вылюта</a>
+              <a class='menu-elements' href=''>Каталог</a>
+              <a class='menu-elements' href=''>steam</a>
+              <a class='menu-elements' href=''>Xbox</a>
+              <a class='menu-elements' href=''>PlayStation</a>
+              <a class='menu-elements' href=''>Fortnite</a>
+              <a class='menu-elements' href=''>Apple</a>
+              <a class='menu-elements' href=''>VPN</a>
+              <a class='menu-elements' href=''>Microsoft</a>
+      </div>
+    </header>
+    <main>
+      <div class='container'>
+          <div class='block'>
+              <p class='main-text'>The new phones are </br> here take a look.
+              </p>
+              <button class='button'>Explore</button>
+          </div>
+          <div class='block-img'>
+              <img class='img' src=' https://img.freepik.com/free-psd/premium-mobile-phone-screen-mockup-template_53876-81688.jpg?w=900&t=st=1670577796~exp=1670578396~hmac=c98b36bb048e6dbc185379f5f16bb3366f2ce009f74da404fbcc6b2ae2c9c07d'   alt='Здесь должна быть картинка'>
+          </div>
+      </div>
+       <p class='text'> Save on our most selled items. </p>
+       <div class='container-cards'>
+        <div class='card'>
+            <img class='card-img' src='https://img.freepik.com/free-vector/digital-device-mockup_53876-89930.jpg?w=996&t=st=1670577881~exp=1670578481~hmac=ab1f030b9cba68395df08934fb374188409002d8c3ff09a7ba362b68b3d86ef2'
+            alt='Здесь должна быть картинка'>
+        </div>
+     
+        <div class='card'>
+            <img class='card-img' src='https://img.freepik.com/free-vector/digital-device-mockup_53876-89361.jpg?w=740&t=st=1670577811~exp=1670578411~hmac=4e5e60b410fc9d3aafb8a976ae33c4c6e07b911d208585c0210d6f9efc275084'
+               alt='Здесь должна быть картинка'>
+        </div>
+     
+        <div class='card'>
+            <img class='card-img' src='https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?w=740&t=st=1670577867~exp=1670578467~hmac=e7ebdc03001dc49dbf961a4a42b0ac2e40296ba305c135a9eaf61ca2df2e135d' alt='Здесь должна быть картинка'>
+        </div>
+     
+        <div class='card'>
+            <img class='card-img' src='https://img.freepik.com/free-psd/stylish-tablet-pro-mockup_125540-2162.jpg?w=996&t=st=1670577826~exp=1670578426~hmac=03f6b2c459c35ce34087c6f12dbe1b092703f7a92e85c13f8986273886b7fc94' alt='Здесь должна быть картинка'>
+        </div>
+        </div>
+   <div class='container-cards'>
+      <div class='card'>
+          <img class='card-img' src='https://img.freepik.com/free-vector/digital-device-mockup_53876-89930.jpg?w=996&t=st=1670577881~exp=1670578481~hmac=ab1f030b9cba68395df08934fb374188409002d8c3ff09a7ba362b68b3d86ef2' alt='Здесь должна быть картинка'>
+          <p class='text-card'>HOW TO SURVIVE</p>
+          <p class='price-card'>300 руб.</p>
+      </div>
+   
+      <div class='card'>
+          <img class='card-img' src='https://img.freepik.com/free-vector/digital-device-mockup_53876-89361.jpg?w=740&t=st=1670577811~exp=1670578411~hmac=4e5e60b410fc9d3aafb8a976ae33c4c6e07b911d208585c0210d6f9efc275084'
+             alt='Здесь должна быть картинка'>
+          <p class='text-card'>Dust An Elysian Tail</p>
+          <p class='price-card'>300 руб.</p>
+      </div>
+   
+      <div class='card'>
+          <img class='card-img' src='https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?w=740&t=st=1670577867~exp=1670578467~hmac=e7ebdc03001dc49dbf961a4a42b0ac2e40296ba305c135a9eaf61ca2df2e135d'   alt='Здесь должна быть картинка'>
+          <p class='text-card'>Ori and the Blind Forest</p>
+          <p class='price-card'>530 руб.</p>
+      </div>
+   
+      <div class='card'>
+          <img class='card-img' src='https://img.freepik.com/free-psd/stylish-tablet-pro-mockup_125540-2162.jpg?w=996&t=st=1670577826~exp=1670578426~hmac=03f6b2c459c35ce34087c6f12dbe1b092703f7a92e85c13f8986273886b7fc94'
+                 alt='Здесь должна быть картинка'>
+          <p class='text-card'>GTA V</p>
+          <p class='price-card'>1530 руб.</p>
+      </div>
+      </div>
+  </main>
+  </body>
+</html>
